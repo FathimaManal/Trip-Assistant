@@ -1,1 +1,1 @@
-# Dubai-Trip-Assistant
+Trip-Assistant

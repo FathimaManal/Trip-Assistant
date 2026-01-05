@@ -47,4 +47,5 @@ if user_message:
         }
         st.session_state.messages.append(response_message)
         with st.chat_message("assistant"):
+
             st.markdown(response_content)

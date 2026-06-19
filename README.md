@@ -15,8 +15,7 @@ npm install
 cp .env.example .env   # then add your GROQ_API_KEY
 vercel dev             # runs both the Vite frontend and the Flask /api function
 ```
-
-App at the URL Vercel prints (typically http://localhost:3000).
+https://trip-assistant-inky.vercel.app
 
 ## Deploy
 
